@@ -1,0 +1,6 @@
+{
+  "name": "Last 100 Metres: Curb-to-Door Spatial Logistics Platform",
+  "description": "Interactive spatial intelligence engine exploring the Last 100 Metres crisis—bridging macro GPS and micro indoor navigation across logistics, emergency services, and accessibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
